@@ -34,4 +34,4 @@ We have used the pix2pix network proposed for image to image translation tasks b
   <img src="images/shadow/11_fake_B.png" width="250"/>
   <img src="images/shadow/11_real_B.png" width="250"/>
 </p>
-Input </t> Prediction </t> Ground Truth 
+Input                                 </t> Prediction </t> Ground Truth 
