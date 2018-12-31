@@ -41,8 +41,11 @@ iii) Ground Truth
 1. Only Shadow :
 <p align="center">
   <img src="images/shadow/11_real_A.png" width="250"/>
+  <figcaption class="figure-caption">Input</figcaption>
   <img src="images/shadow/11_fake_B.png" width="250"/>
+  <figcaption class="figure-caption">Prediction</figcaption>
   <img src="images/shadow/11_real_B.png" width="250"/>
+  <figcaption class="figure-caption">Ground Truth</figcaption>
 </p>
 
 <p align="center">
