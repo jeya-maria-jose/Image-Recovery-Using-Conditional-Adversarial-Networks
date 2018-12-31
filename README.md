@@ -50,27 +50,27 @@ iii) Ground Truth
   <img src="images/shadow/138_fake_B.png" width="250"/>
   <img src="images/shadow/138_real_B.png" width="250"/>
 </p>
-#### 2. Shadow + Salt and Pepper Noise
+#### 2. Shadow + Salt and Pepper Noise:
 <p align="center">
-  <img src="images/shadow/129_real_A.png" width="250"/>
-  <img src="images/shadow/129_fake_B.png" width="250"/>
-  <img src="images/shadow/129_real_B.png" width="250"/>
+  <img src="images/sp/129_real_A.png" width="250"/>
+  <img src="images/sp/129_fake_B.png" width="250"/>
+  <img src="images/sp/129_real_B.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="images/shadow/155_real_A.png" width="250"/>
-  <img src="images/shadow/155_fake_B.png" width="250"/>
-  <img src="images/shadow/155_real_B.png" width="250"/>
+  <img src="images/sp/155_real_A.png" width="250"/>
+  <img src="images/sp/155_fake_B.png" width="250"/>
+  <img src="images/sp/155_real_B.png" width="250"/>
 </p>
 #### 3. Shadow + Speckle Noise
 <p align="center">
-  <img src="images/shadow/118_real_A.png" width="250"/>
-  <img src="images/shadow/118_fake_B.png" width="250"/>
-  <img src="images/shadow/118_real_B.png" width="250"/>
+  <img src="images/speckle/118_real_A.png" width="250"/>
+  <img src="images/speckle/118_fake_B.png" width="250"/>
+  <img src="images/speckle/118_real_B.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="images/shadow/125_real_A.png" width="250"/>
-  <img src="images/shadow/125_fake_B.png" width="250"/>
-  <img src="images/shadow/125_real_B.png" width="250"/>
+  <img src="images/speckle/125_real_A.png" width="250"/>
+  <img src="images/speckle/125_fake_B.png" width="250"/>
+  <img src="images/speckle/125_real_B.png" width="250"/>
 </p>
