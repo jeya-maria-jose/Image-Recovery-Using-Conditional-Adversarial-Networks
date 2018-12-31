@@ -29,7 +29,14 @@ We have used the pix2pix network proposed for image to image translation tasks b
 
 ###Results
 1. Only Shadow :
-From Left : i)Input  ii)Prediction iii) Ground Truth 
+
+From Left :
+
+i)Input 
+
+ii)Prediction
+
+iii) Ground Truth 
 <p align="center">
   <img src="images/shadow/11_real_A.png" width="250"/>
   <img src="images/shadow/11_fake_B.png" width="250"/>
