@@ -28,10 +28,11 @@ We have used the pix2pix network proposed for image to image translation tasks b
 **Pix2pix:  [Project](https://phillipi.github.io/pix2pix/) |  [Paper](https://arxiv.org/pdf/1611.07004.pdf) |  [Torch](https://github.com/phillipi/pix2pix)**
 
 ###Results
-1. Only Shadow
+1. Only Shadow :
+From Left : i)Input  ii)Prediction iii) Ground Truth 
 <p align="center">
   <img src="images/shadow/11_real_A.png" width="250"/>
   <img src="images/shadow/11_fake_B.png" width="250"/>
   <img src="images/shadow/11_real_B.png" width="250"/>
 </p>
-Input                                 </t> Prediction </t> Ground Truth 
+
