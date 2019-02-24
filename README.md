@@ -38,7 +38,7 @@ ii)Prediction
 
 iii) Ground Truth
 
-#### 1. Only Shadow :
+#### Samples:
 <p align="center">
   <img src="images/shadow/11_real_A.png" width="250"/>
   <img src="images/shadow/11_fake_B.png" width="250"/>
@@ -51,7 +51,7 @@ iii) Ground Truth
   <img src="images/shadow/138_real_B.png" width="250"/>
 </p>
 
-#### 2. Shadow + Salt and Pepper Noise:
+#### Shadow + Salt and Pepper Noise:
 <p align="center">
   <img src="images/sp/129_real_A.png" width="250"/>
   <img src="images/sp/129_fake_B.png" width="250"/>
@@ -64,7 +64,7 @@ iii) Ground Truth
   <img src="images/sp/155_real_B.png" width="250"/>
 </p>
 
-#### 3. Shadow + Speckle Noise
+####  Shadow + Speckle Noise
 <p align="center">
   <img src="images/speckle/118_real_A.png" width="250"/>
   <img src="images/speckle/118_fake_B.png" width="250"/>
@@ -76,3 +76,15 @@ iii) Ground Truth
   <img src="images/speckle/125_fake_B.png" width="250"/>
   <img src="images/speckle/125_real_B.png" width="250"/>
 </p>
+
+
+
+### Creating Dataset
+
+Run <code> generate.m </code> to generate the extra augmented images to help the network train to restore images that are degraded by more than one type of artifact.
+
+<code>python dataset_create.py </code> to resize the input and GT images such that they are in the proper format to be fed in to the network.
+
+Addition of any more type of images afflicted with artifacts would be fruitful and would improve the network's performance.
+
+
