@@ -106,3 +106,7 @@ iii) Ground Truth
   <img src="images/speckle/125_real_B.png" width="250"/>
 </p>
 
+If you use this , please cite it as 
+<code>
+Anand M. et al. (2020) Tackling Multiple Visual Artifacts: Blind Image Restoration Using Conditional Adversarial Networks. In: Nain N., Vipparthi S., Raman B. (eds) Computer Vision and Image Processing. CVIP 2019. Communications in Computer and Information Science, vol 1148. Springer, Singapore
+</code>
