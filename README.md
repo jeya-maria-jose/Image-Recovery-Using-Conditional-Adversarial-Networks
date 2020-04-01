@@ -1,5 +1,6 @@
 # Image-Recovery-Using-Conditional-Adversarial-Networks
 Analyzing Conditional Adversarial Networks to solve image recovery problems like shadow recovery, denoising and deblurring.
+Repository for the paper :  <a href="https://link.springer.com/chapter/10.1007/978-981-15-4018-9_30">Tackling Multiple Visual Artifacts: Blind Image Restoration Using Conditional Adversarial Networks</a>
 
 ### Requistites:
 1. Python 3
@@ -106,7 +107,17 @@ iii) Ground Truth
   <img src="images/speckle/125_real_B.png" width="250"/>
 </p>
 
-If you use this , please cite it as 
-<code>
-Anand M. et al. (2020) Tackling Multiple Visual Artifacts: Blind Image Restoration Using Conditional Adversarial Networks. In: Nain N., Vipparthi S., Raman B. (eds) Computer Vision and Image Processing. CVIP 2019. Communications in Computer and Information Science, vol 1148. Springer, Singapore
-</code>
+## Citation
+If you use this , please cite our paper <a href="https://link.springer.com/chapter/10.1007/978-981-15-4018-9_30">Tackling Multiple Visual Artifacts: Blind Image Restoration Using Conditional Adversarial Networks</a>:
+
+```
+@inproceedings{anand2019tackling,
+  title={Tackling Multiple Visual Artifacts: Blind Image Restoration Using Conditional Adversarial Networks},
+  author={Anand, M and Natraj, A Ashwin and Jose, V Jeya Maria and Subramanian, K and Bhardwaj, Priyanka and Pandeeswari, R and Deivalakshmi, S},
+  booktitle={International Conference on Computer Vision and Image Processing},
+  pages={331--342},
+  year={2019},
+  organization={Springer}
+}
+```
+
