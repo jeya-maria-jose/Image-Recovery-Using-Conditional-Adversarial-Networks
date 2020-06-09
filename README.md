@@ -108,7 +108,7 @@ iii) Ground Truth
 </p>
 
 ## Citation
-If you use this , please cite our paper <a href="https://link.springer.com/chapter/10.1007/978-981-15-4018-9_30">Tackling Multiple Visual Artifacts: Blind Image Restoration Using Conditional Adversarial Networks</a>:
+If you use this work , please cite our paper <a href="https://link.springer.com/chapter/10.1007/978-981-15-4018-9_30">Tackling Multiple Visual Artifacts: Blind Image Restoration Using Conditional Adversarial Networks</a>:
 
 ```
 @inproceedings{anand2019tackling,
